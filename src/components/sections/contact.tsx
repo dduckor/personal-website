@@ -10,10 +10,10 @@ export function ContactSection() {
           love to hear from you.
         </p>
         <a
-          href="mailto:hello@example.com"
+          href="mailto:your@email.com"
           className="inline-block rounded-full border border-stone-300 px-8 py-3 text-sm font-medium text-stone-700 transition-colors hover:bg-stone-100 hover:border-stone-400"
         >
-          hello@example.com
+          your@email.com
         </a>
       </div>
     </section>

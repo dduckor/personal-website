@@ -1,11 +1,11 @@
 import Image from "next/image";
 
 const photos = [
-  { src: "https://picsum.photos/seed/photo1/800/1000", alt: "Mountain landscape", w: 800, h: 1000 },
+  { src: "https://picsum.photos/seed/photo4/800/1200", alt: "Coastal view", w: 800, h: 1200 },
   { src: "https://picsum.photos/seed/photo2/800/600", alt: "Urban street scene", w: 800, h: 600 },
   { src: "https://picsum.photos/seed/photo3/800/800", alt: "Portrait study", w: 800, h: 800 },
-  { src: "https://picsum.photos/seed/photo4/800/1200", alt: "Coastal view", w: 800, h: 1200 },
   { src: "https://picsum.photos/seed/photo5/800/700", alt: "Architecture detail", w: 800, h: 700 },
+  { src: "https://picsum.photos/seed/photo1/800/1000", alt: "Mountain landscape", w: 800, h: 1000 },
   { src: "https://picsum.photos/seed/photo6/800/900", alt: "Forest path", w: 800, h: 900 },
 ];
 

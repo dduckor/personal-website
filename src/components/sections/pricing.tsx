@@ -70,6 +70,14 @@ export function PricingSection() {
             </div>
           ))}
         </div>
+        <div className="mt-12 text-center">
+          <a
+            href="#contact"
+            className="inline-block rounded-full bg-stone-900 px-8 py-3 text-sm font-medium text-white transition-colors hover:bg-stone-700"
+          >
+            Get in touch
+          </a>
+        </div>
       </div>
     </section>
   );
